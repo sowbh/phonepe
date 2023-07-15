@@ -13,7 +13,7 @@ import requests
 import mysql.connector
 
 #establishing the connection
-conn = mysql.connector.connect(user='root', password='12345', host='127.0.0.1', database="phone_pepulse")
+conn = mysql.connector.connect(user='root', password='your_mysqlworkbench_password', host='127.0.0.1', database="phone_pepulse")
 
 # create a cursor object
 cursor = conn.cursor()
