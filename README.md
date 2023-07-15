@@ -14,7 +14,7 @@ Domain: Fintech
 
 Run this code in any of the environment such as vscode, jupyter notebook or google-colab after installing the necessary libraries required in this project. 
 
-To run pp.py (your_filenamepy) using streamlit type in the terminal (works only in vscode):
+To run pp.py (your_filename.py) using streamlit type in the terminal (works only in vscode):
 Streamlit run pp.py (your_filename.py)
 You can now view your Streamlit app in your browser.
 
