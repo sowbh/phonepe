@@ -16,10 +16,10 @@ Domain: Fintech
 Run this code in any of the environment such as vscode, jupyter notebook or google-colab after installing the necessary libraries required in this project. 
 
 Here, for storing the data we have used an alternative of mysql workbench ie; sqlite3. To view the database file;
->>kindly install DB Browser for SQLite
->>download the phonepe_pulse.db from the notebook and copy to your respective project directory
->>click on open database and select the db file(phonepe_pulse.db)
->>click on browse data to see all 6 tables present in the db file(phonepe_pulse.db).
+ i.kindly install DB Browser for SQLite
+ ii.download the phonepe_pulse.db from the notebook and copy to your respective project directory
+ iii.click on open database and select the db file(phonepe_pulse.db)
+ iv.click on browse data to see all 6 tables present in the db file(phonepe_pulse.db).
 
 To run pp.py (your_filename.py) using streamlit, type in the terminal (works only in vscode):
 Streamlit run pp.py (your_filename.py)
@@ -29,6 +29,8 @@ You can now view your Streamlit app in your browser.
   Network URL: http://192.168.0.106:8501
 
 Output:
+
+
 ![phonepe1](https://github.com/sowbh/phonepe/assets/95527211/d8eb9fe8-93b5-4c62-ac61-db3909e3ce8e)
 
 ![phonepe2](https://github.com/sowbh/phonepe/assets/95527211/8006f4f2-1bbe-4573-bf5e-3e011526b910)
