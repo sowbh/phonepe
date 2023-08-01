@@ -31,8 +31,10 @@ You can now view your Streamlit app in your browser.
 Output:
 
 
-![phonepe1](https://github.com/sowbh/phonepe/assets/95527211/d8eb9fe8-93b5-4c62-ac61-db3909e3ce8e)
+![phonepe1](https://github.com/sowbh/phonepe/assets/95527211/76b33a09-d5ff-4621-8e3e-f284d05bcc81)
 
-![phonepe2](https://github.com/sowbh/phonepe/assets/95527211/8006f4f2-1bbe-4573-bf5e-3e011526b910)
 
-![phonepe3](https://github.com/sowbh/phonepe/assets/95527211/0ae0d5dc-1e86-4d03-937f-65a8ae5b81ed)
+![phonepe2](https://github.com/sowbh/phonepe/assets/95527211/b1d556b1-fc0f-45ad-9659-20d47d03e2a5)
+
+
+![phonepe3](https://github.com/sowbh/phonepe/assets/95527211/4b706d09-da17-4257-aacc-7d81fb9e2068)
