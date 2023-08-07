@@ -19,7 +19,7 @@ Here, for storing the data we have used an alternative of mysql workbench ie; sq
  i.kindly install DB Browser for SQLite
  ii.download the phonepe_pulse.db from the notebook and copy to your respective project directory
  iii.click on open database and select the db file(phonepe_pulse.db)
- iv.click on browse data to see all 6 tables present in the db file(phonepe_pulse.db).
+ iv.click on browse data to view all 6 tables present in the db file(phonepe_pulse.db).
 
 To run pp.py (your_filename.py) using streamlit, type in the terminal (works only in vscode):
 Streamlit run pp.py (your_filename.py)
